@@ -5,7 +5,7 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
 <p align="center">
-  <img src="i1.jpg" >
+  <img src="Captura%20de%20Tela%202020-07-15%20a%CC%80s%2015.56.52.png" >
 </p>
 
 # Jordana A. de Oliveira Rubim
