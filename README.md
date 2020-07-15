@@ -1,4 +1,6 @@
-[![author](https://jsfiddle.net/jormfrancis/8yjxuzgL/1/#&togetherjs=nOJktFHb48)](https://www.linkedin.com/in/jordana-oliveira-rubim-5b093520/) 
+
+
+[![](https://img.shields.io/badge/author-jordana--rubim-orange.svg)](https://www.linkedin.com/in/jordana-oliveira-rubim-5b093520/) 
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
