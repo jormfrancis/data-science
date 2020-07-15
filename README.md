@@ -8,7 +8,7 @@
   <img src="Captura%20de%20Tela%202020-07-15%20a%CC%80s%2015.56.52.png" >
 </p>
 
-# Jordana A. de Oliveira Rubim
+# Jordana Ap. de Oliveira Rubim
 <sub>*Lead Data Science* at Itáu-Unibanco S.A</sub>
 
 I'm responsible for promoting the culture of data use and analytics, translating business needs, for the Technology and advanced Modeling teams so that the business can acquire autonomy and self-sufficiency.
