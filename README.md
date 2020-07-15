@@ -25,8 +25,8 @@ I have a degree in Statistics from the State University of Campinas (UNICAMP), c
 
 
 
-
 ## Projetos:
+* **Análise dos dados Airbnb:** (https://bit.ly/39aGqul)
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 ---
