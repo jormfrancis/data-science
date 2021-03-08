@@ -14,7 +14,7 @@
 I'm responsible for promoting the culture of data use and analytics, translating business needs, for the Technology and advanced Modeling teams so that the business can acquire autonomy and self-sufficiency.
 I coordinate Business Intelligence project team responsible for developing investigative studies, indicators, and process control points. I combine analytical skills, ability to work in team, and I am attent to details. I developed a critical thinking and problem-solving skills.
 
-I have a degree in Statistics from the State University of Campinas (UNICAMP), classified as one of the best and most prestigious in Brazil, and an MBA in Administration from Fundação Getúlio Vargas (FGV).
+I have a degree in Statistics from the State University of Campinas (UNICAMP-2009), classified as one of the best and most prestigious in Brazil, an MBA in Administration from Fundação Getúlio Vargas (FGV-2014) and I'm taking a Master's Degree in Quantitative Methods (FEA/USP - 2021-2023).
 
 **Background in:** Business Analysis, Python, Machine Learning and Mathematical Optimization.
 
